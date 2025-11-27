@@ -1,0 +1,23 @@
+{
+  "short_name": "MediGen",
+  "name": "MediGen AI Health Assistant",
+  "description": "An AI-powered medical assistant to find doctors, book appointments, and get trusted medical guidance 24/7. This application provides general health information via an AI assistant and is not a substitute for professional medical advice.",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f766e",
+  "background_color": "#f9fafb"
+}

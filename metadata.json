@@ -1,0 +1,5 @@
+{
+  "name": "MediGen AI Health Assistant",
+  "description": "An AI-powered medical assistant to find doctors, book appointments, and get trusted medical guidance 24/7. This application provides general health information via an AI assistant and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
